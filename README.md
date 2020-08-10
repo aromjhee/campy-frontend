@@ -11,3 +11,7 @@ Please checkout the [About](https://campy-frontend.herokuapp.com/about) section 
 # Live Link (Backend)
 
 [backend](https://campy-backend.herokuapp.com/)
+
+# Backend Repo
+
+[backend repo](https://github.com/aromjhee/campy-backend)
